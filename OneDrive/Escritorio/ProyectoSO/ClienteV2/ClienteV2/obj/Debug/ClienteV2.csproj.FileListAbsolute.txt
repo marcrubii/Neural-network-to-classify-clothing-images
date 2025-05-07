@@ -1,0 +1,11 @@
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\bin\Debug\ClienteV3.exe.config
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\bin\Debug\ClienteV3.exe
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\bin\Debug\ClienteV3.pdb
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\obj\Debug\ClienteV2.csproj.AssemblyReference.cache
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\obj\Debug\ClienteV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\obj\Debug\ClienteV3.Preguntados.resources
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\obj\Debug\ClienteV3.Properties.Resources.resources
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\obj\Debug\ClienteV2.csproj.GenerateResource.cache
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\obj\Debug\ClienteV2.csproj.CoreCompileInputs.cache
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\obj\Debug\ClienteV3.exe
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO-V2\Proyecto-SO-V2\ClienteV5\ClienteV2\obj\Debug\ClienteV3.pdb

@@ -1,0 +1,20 @@
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\bin\Debug\ClienteV3.exe.config
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\bin\Debug\ClienteV3.exe
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\bin\Debug\ClienteV3.pdb
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\obj\Debug\ClienteV3.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\obj\Debug\ClienteV3.Preguntados.resources
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\obj\Debug\ClienteV3.Properties.Resources.resources
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\obj\Debug\ClienteV3.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\obj\Debug\ClienteV3.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\obj\Debug\ClienteV3.exe
+C:\Users\Bruno\Desktop\ClienteV3\ClienteV3\obj\Debug\ClienteV3.pdb
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\bin\Debug\ClienteV3.exe.config
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\bin\Debug\ClienteV3.exe
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\bin\Debug\ClienteV3.pdb
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\obj\Debug\ClienteV3.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\obj\Debug\ClienteV3.Preguntados.resources
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\obj\Debug\ClienteV3.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\obj\Debug\ClienteV3.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\obj\Debug\ClienteV3.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\obj\Debug\ClienteV3.exe
+C:\Users\Bruno\Desktop\Version 3\ClienteV3\ClienteV3\obj\Debug\ClienteV3.pdb
